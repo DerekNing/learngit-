@@ -5,4 +5,4 @@ creating a new branch dev
 manage merge
 ..........
 fast forward
-no-ff
+no--------ff
