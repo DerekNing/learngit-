@@ -7,3 +7,4 @@ manage merge
 fast forward
 no--------ff
 jjjjjjjjjjjj
+fix bug in issue-101
