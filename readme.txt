@@ -6,3 +6,4 @@ manage merge
 ..........
 fast forward
 no--------ff
+jjjjjjjjjjjj
