@@ -8,4 +8,8 @@ fast forward
 no--------ff
 jjjjjjjjjjjj
 fix bug in issue-101
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
