@@ -8,3 +8,4 @@ fast forward
 no--------ff
 jjjjjjjjjjjj
 fix bug in issue-101
+Creating a new branch is quick AND simple.
